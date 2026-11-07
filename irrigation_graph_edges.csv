@@ -1,0 +1,7 @@
+source,target,capacity_lpm,length_m,leak_risk
+Pump_Main,Junction_A,500,50,0.01
+Pump_Main,Junction_B,500,80,0.05
+Junction_A,Sensor_Zone1,200,30,0.02
+Junction_A,Sensor_Zone2,200,45,0.03
+Junction_B,Sensor_Zone3,200,60,0.08
+Junction_B,Sensor_Zone4,200,40,0.01
